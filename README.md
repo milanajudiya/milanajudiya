@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milanajudiya&label=Profile%20views&color=0e75b6&style=flat" alt="milanajudiya" /> </p>
 
-- 📫 Reach out to me:  [https://linkedin.com/in/milan-ajudiya]
+- 📫 Reach out to me:  https://linkedin.com/in/milan-ajudiya
 
 - 👨‍💻 My Dashboard Projects are available at [https://www.novypro.com/profile_projects/milanajudiya](https://www.novypro.com/profile_projects/milanajudiya)
 
