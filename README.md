@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - 👨‍💻 My Dashboard Projects are available at [https://www.novypro.com/profile_projects/milanajudiya](https://www.novypro.com/profile_projects/milanajudiya)
 
+- 📝 I write Technical articles on [https://medium.com/@mkajudiya001](https://medium.com/@mkajudiya001)
+
 - 💬 Ask me about **Data Analytics, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
